@@ -1,3 +1,3 @@
-# bulldog3321.github.io
-
-# [Theme](https://github.com/Bulldog3321/Bulldogs-Theme)
+# Themes
+### [Discord](https://github.com/Bulldog3321/Bulldogs-Theme)
+### [Nyaa](https://github.com/Bulldog3321/Bulldogs-Nyaa)
